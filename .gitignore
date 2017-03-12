@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dll
+Debug/minehook.ilk
+*.pdb
+ipch/MINEHOOK-49807804/MINEHOOK-76cef626.ipch
+*.ipch
+minehook.VC.db
+*.opendb
