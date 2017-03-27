@@ -52,3 +52,11 @@ ipch/MINEHOOK-49807804/MINEHOOK-76cef626.ipch
 *.ipch
 minehook.VC.db
 *.opendb
+*.exe
+Debug/mineinject.ilk
+*.log
+mineinject/Debug/mineinject.obj
+*.tlog
+mineinject/Debug/stdafx.obj
+*.idb
+*.pch
