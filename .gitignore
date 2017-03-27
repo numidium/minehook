@@ -60,3 +60,4 @@ mineinject/Debug/mineinject.obj
 mineinject/Debug/stdafx.obj
 *.idb
 *.pch
+*.enc
